@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn\\C#\\MusicApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E7B1A0-9ABF-46BB-AC6C-2F65621AC813}|MusicApplication\\MusicApplication.csproj|D:\\Learn\\C#\\MusicApplication\\musicapplication\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26E7B1A0-9ABF-46BB-AC6C-2F65621AC813}|MusicApplication\\MusicApplication.csproj|solutionrelative:musicapplication\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E7B1A0-9ABF-46BB-AC6C-2F65621AC813}|MusicApplication\\MusicApplication.csproj|d:\\learn\\c#\\musicapplication\\musicapplication\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E7B1A0-9ABF-46BB-AC6C-2F65621AC813}|MusicApplication\\MusicApplication.csproj|solutionrelative:musicapplication\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E7B1A0-9ABF-46BB-AC6C-2F65621AC813}|MusicApplication\\MusicApplication.csproj|D:\\Learn\\C#\\MusicApplication\\musicapplication\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E7B1A0-9ABF-46BB-AC6C-2F65621AC813}|MusicApplication\\MusicApplication.csproj|solutionrelative:musicapplication\\mp3player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mp3Player.cs",
+              "DocumentMoniker": "D:\\Learn\\C#\\MusicApplication\\MusicApplication\\Mp3Player.cs",
+              "RelativeDocumentMoniker": "MusicApplication\\Mp3Player.cs",
+              "ToolTip": "D:\\Learn\\C#\\MusicApplication\\MusicApplication\\Mp3Player.cs",
+              "RelativeToolTip": "MusicApplication\\Mp3Player.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T20:43:56.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "D:\\Learn\\C#\\MusicApplication\\MusicApplication\\fMain.cs",
+              "RelativeDocumentMoniker": "MusicApplication\\fMain.cs",
+              "ToolTip": "D:\\Learn\\C#\\MusicApplication\\MusicApplication\\fMain.cs",
+              "RelativeToolTip": "MusicApplication\\fMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:58:46.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "D:\\Learn\\C#\\MusicApplication\\MusicApplication\\fMain.cs",
+              "RelativeDocumentMoniker": "MusicApplication\\fMain.cs",
+              "ToolTip": "D:\\Learn\\C#\\MusicApplication\\MusicApplication\\fMain.cs [Design]",
+              "RelativeToolTip": "MusicApplication\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:38:51.363Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
